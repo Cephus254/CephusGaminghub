@@ -108,7 +108,7 @@ module.exports = {
       const cyberCaption = `╭━〔 CYBER2 REVEAL 〕━╮
 │🔓 View-Once Unlocked!
 │👁️ Secret Media Decrypted
-│🤖 Powered by Lucky M2 Bot
+│🤖 Powered by Tech hub Bot
 ╰═❀═════════════❀═╯
 
 > Transmission intercepted successfully 🚀`;
