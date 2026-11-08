@@ -4,11 +4,11 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['256789966218','256789966218'], // Add your number without + or spaces (e.g., 256789966218)
-    ownerName: ['Lucky 218', 'Lucky M2 Bot'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['254791215519','254791215519'], // Add your number without + or spaces (e.g., 256789966218)
+    ownerName: ['CEPHUSGAMING', 'CEPHUSGAMING Bot'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Lucky M2 Bot',
+    botName: 'CEPHUSGAMING Bot',
     version: '1.5.0',
     prefix: '.',
     sessionName: 'session',
@@ -78,7 +78,7 @@ module.exports = {
     },
     
     // Timezone
-    timezone: 'Africa/Kampala',
+    timezone: 'Africa/Kenya',
     
     // Limits
     maxWarnings: 3,
