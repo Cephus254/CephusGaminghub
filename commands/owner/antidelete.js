@@ -73,7 +73,7 @@ if (!isOwner) {
 💠 *.antidelete off*    → Disable
 💠 *.antidelete status* → Check Status
 
-> 🔰 *Powered by LUCKY M2 BOT*
+> 🔰 *Powered by Tech hub BOT*
 ` );
 
     } catch (err) {
